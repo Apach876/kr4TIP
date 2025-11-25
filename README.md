@@ -1,16 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1550" height="671" alt="image" src="https://github.com/user-attachments/assets/bc8f0ef6-182d-41fd-b5b7-293e470a745a" /># 4 КОНТРОЛЬНАЯ 5 ВАРИАНТ СЧЁТЧИК КЛИКОВ
+Программа представляет из себя простой счётчик кликов. В программе 3 функции и 1 переменная счётчик кликов. Функция увелечения кликов на 1 и функция уменьшения на 1.Главная функция
+<img width="1550" height="671" alt="image" src="https://github.com/user-attachments/assets/c2bb2a66-db7b-4894-9189-bdddf89d7353" />
+<img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/91a15067-11a8-4af7-a550-612e09f4650f" />
+<img width="1162" height="503" alt="image" src="https://github.com/user-attachments/assets/74ef0f46-d2ec-421f-868a-a52def0e15c6" />
